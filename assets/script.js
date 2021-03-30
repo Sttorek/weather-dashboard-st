@@ -25,7 +25,7 @@ var uvIndex = $("#uv-index")
 searchBtn.on("click", function() {
     event.preventDefault();
     var searchTerm = searchTermEl.val();
-    var queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + searchTerm + "&appid=bf2c896f347aeadf48d0bd9ae7d3ba10"
+    var queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + searchTerm + "&appid=bf2c896f347aeadf48d0bd9ae7d3ba10&units=imperial"
 
     
 
