@@ -10,6 +10,9 @@ nav {
     
 }
 
+li {
+    list-style: none;
+}
 
 
 
@@ -31,7 +34,14 @@ nav {
     text-align: center;
 }
 
-
+.day {
+    background-color: rgb(61, 61, 233);
+    color: white;
+    border-radius: 10px;
+    font-size: large;
+    line-height: 1.6;
+    
+}
 
 
 
@@ -60,7 +70,7 @@ nav {
 #search-btn {
     height: 34px;
     width: 100px;
-    background-color: rgb(50, 50, 245);
+    background-color: rgb(53, 53, 240);
     color: white;
     border-radius: 4px;
 }
@@ -74,3 +84,11 @@ nav {
     padding-left: 17px;
     padding-top: 1px;
 }
+
+#forecast-cnt {
+    
+    display: flex;
+    justify-content: space-evenly;
+    height: 220px;
+}
+
