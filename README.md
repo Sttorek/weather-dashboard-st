@@ -6,4 +6,5 @@ site-https://sttorek.github.io/weather-dashboard-st/
 
 
 ![weatherDashboard](./assets/Screenshot.png)
- new
+
+
