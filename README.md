@@ -5,4 +5,4 @@ In this assignment I created a weather dashboard using two API's. You can check 
 site-https://sttorek.github.io/weather-dashboard-st/
 
 
-![weatherDashboard](./assets/images/Screenshot.png)
+![weatherDashboard](./assets/Screenshot.png)
